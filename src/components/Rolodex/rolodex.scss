@@ -1,0 +1,18 @@
+.rolodex {
+    background-color: #EFC89E;
+    border-radius: 4px;
+    box-shadow: 6px -6px rgba(0,0,0,.2);
+    height: 40vh;
+    width: 70vw;
+    z-index: 1100;
+    position: relative;
+}
+
+// .rolodex::after {
+//     content: "";
+//     width: 0;
+//     height: 0;
+//     border-bottom: 100px solid red;
+//     border-left: 100px solid transparent;
+//     z-index: 999;
+// }
